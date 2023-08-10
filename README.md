@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvsoni&label=Profile%20views&color=0e75b6&style=flat" alt="parvsoni" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and DSA**
+- 🌱 I’m currently learning **ML and DSA**
 
 - 📫 How to reach me **parvsoni2003@gmail.com**
 
