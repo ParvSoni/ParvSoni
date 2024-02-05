@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/parv-soni-1368a8228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parv-soni-1368a8228" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/parvsoni2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parvsoni2003" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parvsoni2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parvsoni2003" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/parvsoni" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="parvsoni2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
